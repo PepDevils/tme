@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/dezvezesdez/TME/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/dezvezesdez/TME/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dezvezesdez/TME/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/dezvezesdez/TME/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

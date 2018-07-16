@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:8:5-26:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/dezvezesdez/.android/build-cache/1a2c78de5c582ecf9365021418fe71054229c397/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/dezvezesdez/.android/build-cache/0c580f697d69ddf195f3027b8569895ae2e5dc56/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] /Users/dezvezesdez/.android/build-cache/ef8dc2bbcb215fc556e749a6751da72dc05e235e/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /Users/dezvezesdez/.android/build-cache/1f0fa6da975c7460619a5f01e9cbfa7605c505f0/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /Users/dezvezesdez/.android/build-cache/6fa7438a62f69a47e98f1093572929728554bf2a/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /Users/dezvezesdez/.android/build-cache/b893cb1d84ce7fc168dfdafdae05d40368a52cbc/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/dezvezesdez/.android/build-cache/70677abcb1d2535ba29652dbf6e222f248642cc9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/dezvezesdez/.android/build-cache/9ebdaaad6bd96b88c3d24bbb72d84baa6c7f6a17/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/dezvezesdez/.android/build-cache/1431582f69cd55d2a133c530a4f653ca5e6e7a50/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/dezvezesdez/.android/build-cache/03003fcf52d2cf48a2b51bec668d8ae6effa578b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/dezvezesdez/.android/build-cache/232d7b7313bd91c2a5d1253555a5ed7d59304c35/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/dezvezesdez/.android/build-cache/10468d8003aacbe2422a38d5d04f948add0c28da/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:14:9-40
+activity#pt.pepedevils.tme.FullscreenActivity
+ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:15:9-25:20
+	android:label
+		ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:18:13-45
+	android:configChanges
+		ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:17:13-74
+	android:theme
+		ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:19:13-51
+	android:name
+		ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:16:13-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/dezvezesdez/.android/build-cache/1a2c78de5c582ecf9365021418fe71054229c397/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/dezvezesdez/.android/build-cache/0c580f697d69ddf195f3027b8569895ae2e5dc56/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] /Users/dezvezesdez/.android/build-cache/ef8dc2bbcb215fc556e749a6751da72dc05e235e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /Users/dezvezesdez/.android/build-cache/1f0fa6da975c7460619a5f01e9cbfa7605c505f0/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /Users/dezvezesdez/.android/build-cache/6fa7438a62f69a47e98f1093572929728554bf2a/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /Users/dezvezesdez/.android/build-cache/b893cb1d84ce7fc168dfdafdae05d40368a52cbc/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/dezvezesdez/.android/build-cache/70677abcb1d2535ba29652dbf6e222f248642cc9/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/dezvezesdez/.android/build-cache/9ebdaaad6bd96b88c3d24bbb72d84baa6c7f6a17/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/dezvezesdez/.android/build-cache/1431582f69cd55d2a133c530a4f653ca5e6e7a50/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/dezvezesdez/.android/build-cache/03003fcf52d2cf48a2b51bec668d8ae6effa578b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/dezvezesdez/.android/build-cache/232d7b7313bd91c2a5d1253555a5ed7d59304c35/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/dezvezesdez/.android/build-cache/10468d8003aacbe2422a38d5d04f948add0c28da/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dezvezesdez/TME/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/dezvezesdez/.android/build-cache/1a2c78de5c582ecf9365021418fe71054229c397/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/dezvezesdez/.android/build-cache/0c580f697d69ddf195f3027b8569895ae2e5dc56/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/dezvezesdez/.android/build-cache/70677abcb1d2535ba29652dbf6e222f248642cc9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/dezvezesdez/.android/build-cache/9ebdaaad6bd96b88c3d24bbb72d84baa6c7f6a17/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/dezvezesdez/.android/build-cache/1431582f69cd55d2a133c530a4f653ca5e6e7a50/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/dezvezesdez/.android/build-cache/03003fcf52d2cf48a2b51bec668d8ae6effa578b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/dezvezesdez/.android/build-cache/232d7b7313bd91c2a5d1253555a5ed7d59304c35/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/dezvezesdez/.android/build-cache/10468d8003aacbe2422a38d5d04f948add0c28da/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] /Users/dezvezesdez/.android/build-cache/1f0fa6da975c7460619a5f01e9cbfa7605c505f0/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /Users/dezvezesdez/.android/build-cache/1f0fa6da975c7460619a5f01e9cbfa7605c505f0/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /Users/dezvezesdez/.android/build-cache/1f0fa6da975c7460619a5f01e9cbfa7605c505f0/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /Users/dezvezesdez/.android/build-cache/1f0fa6da975c7460619a5f01e9cbfa7605c505f0/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.6] /Users/dezvezesdez/.android/build-cache/b893cb1d84ce7fc168dfdafdae05d40368a52cbc/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /Users/dezvezesdez/.android/build-cache/b893cb1d84ce7fc168dfdafdae05d40368a52cbc/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /Users/dezvezesdez/.android/build-cache/b893cb1d84ce7fc168dfdafdae05d40368a52cbc/output/AndroidManifest.xml:20:20-65

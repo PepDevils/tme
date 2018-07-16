@@ -1,0 +1,102 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:clickable="true"
+    android:background="@color/colorPrimary"
+    tools:context="pt.pepedevils.tme.fragaments.TeamMakerFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/title_"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="26dp"
+        android:background="@color/black_overlay"
+        android:gravity="center_horizontal"
+        android:padding="10dp"
+        android:text="@string/title_team_maker"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/bt_balance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bt_txt_balance" />
+
+    <Button
+        android:id="@+id/bt_random"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bt_txt_random" />
+
+    <Button
+        android:id="@+id/bt_save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:text="@string/bt_txt_save" />
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/redteam"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:text="EQUIPA VERMELHA"
+                android:textColor="@android:color/holo_red_light" />
+
+            <TextView
+                android:id="@+id/redteam_list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/redteam"
+                android:layout_marginTop="10dp"
+                android:text="EQUIPA VERMELHA"
+                android:textColor="@android:color/black" />
+
+            <View
+                android:layout_width="4dp"
+                android:layout_height="200dp"
+                android:layout_centerInParent="true"
+                android:layout_margin="30dp"
+                android:background="@color/black_overlay"></View>
+
+            <TextView
+                android:id="@+id/blueteam"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:text="EQUIPA AZUL"
+                android:textColor="@android:color/holo_blue_light" />
+
+            <TextView
+                android:id="@+id/blueteam_list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/blueteam"
+                android:layout_marginTop="10dp"
+                android:text="EQUIPA Azul"
+                android:textColor="@android:color/black" />
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>

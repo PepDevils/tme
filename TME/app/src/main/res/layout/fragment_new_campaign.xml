@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/player_name" />
+
+    <android.support.v7.widget.AppCompatEditText
+        android:id="@+id/edt_player_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/player_weight" />
+
+    <android.support.v7.widget.AppCompatEditText
+        android:id="@+id/edt_player_weight"
+        android:layout_width="match_parent"
+        android:hint="@string/player_weight_hint"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/add_player"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/player_add" />
+    <Button
+        android:id="@+id/sub_team"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/submeter_equipa" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/player_list" />
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <!--<TextView
+            android:id="@+id/all_players"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />-->
+    </ScrollView>
+
+</LinearLayout>

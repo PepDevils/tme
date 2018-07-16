@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TME</string>
+
+    <string name="app_title">Team Maker Evolutian</string>
+
+    <string name="new_campaign">Nova Campanha</string>
+    <string name="all_campaign">Todas as Campanhas</string>
+
+
+    <string name="player_name">Nome do Jogador:</string>
+    <string name="player_weight">Nivel do Jogador:</string>
+    <string name="player_weight_hint">Numero inteiro superior a zero</string>
+
+    <string name="player_list">Lista de Jogadores:</string>
+    <string name="player_add">ADICIONAR JOGADOR</string>
+    <string name="submeter_equipa">SUBMETER EQUIPA</string>
+
+    <string name="make_ten">Precisa de 10 jogadores, faltam </string>
+
+    <string name="player_aviso">Verifique os dados dos jogadores</string>
+    <string name="player_aviso_allready">Jogador já na listagem</string>
+
+    <string name="bt_eliminar">ELIMINAR</string>
+
+    <string name="title_team_maker">Make Teams</string>
+
+    <string name="bt_txt_balance">EQUILIBRADAS</string>
+    <string name="bt_txt_random">ALEATORIO</string>
+    <string name="bt_txt_save">GUARDAR</string>
+
+
+    <string name="title_all_campaigns">Escolha o Campeonato</string>
+
+
+</resources>

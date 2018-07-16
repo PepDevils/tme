@@ -1,0 +1,7 @@
+#Fri May 26 16:52:26 WEST 2017
+base.0=/Users/dezvezesdez/TME/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_78c93f80133b069a05ebd5cc5fc37658a4ec6a1a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/dezvezesdez/TME/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3768584860446b78d7d842866dcee4039cfa363a/classes.dex
+base.1=/Users/dezvezesdez/TME/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3768584860446b78d7d842866dcee4039cfa363a
+file.0=/Users/dezvezesdez/TME/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_78c93f80133b069a05ebd5cc5fc37658a4ec6a1a/classes.dex

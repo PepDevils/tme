@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dezvezesdez/.android/build-cache/ef8dc2bbcb215fc556e749a6751da72dc05e235e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
+        <dex dex="/Users/dezvezesdez/TME/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08ad3100b2bcc897b5993156c3984ad918ac7bbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dezvezesdez/TME/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b3711baecdbd5f0f1b5c5115da1a7771d17b4c4f">
+        <dex dex="/Users/dezvezesdez/TME/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_78c93f80133b069a05ebd5cc5fc37658a4ec6a1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dezvezesdez/.android/build-cache/b893cb1d84ce7fc168dfdafdae05d40368a52cbc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/Users/dezvezesdez/TME/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0cedf3a7967ea48393981b3c2751a7a44398254c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dezvezesdez/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/dezvezesdez/TME/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_c14d0c58f6341828b9b02ed27601c471473abdd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dezvezesdez/.android/build-cache/1f0fa6da975c7460619a5f01e9cbfa7605c505f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/Users/dezvezesdez/TME/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b213ce6a005961aa70b507cf7e2dde4197b647c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dezvezesdez/.android/build-cache/6fa7438a62f69a47e98f1093572929728554bf2a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/Users/dezvezesdez/TME/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_87b4991e78c4deeaed0210361d4c382a97bdcdcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dezvezesdez/TME/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/dezvezesdez/TME/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3768584860446b78d7d842866dcee4039cfa363a/classes.dex" />
+    </item>
+
+</items>
